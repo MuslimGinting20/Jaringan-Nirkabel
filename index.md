@@ -1,4 +1,4 @@
-#                                                           ![Image](mus.jpg)
+![Image](mus.jpg)
 
 
 ##  KEAMANAN JARINGAN NIRKABEL
