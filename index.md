@@ -1,5 +1,5 @@
 #KEAMANAN JARINGAN NIRKABEL
-[Link](url) and ![IMG_1096.JPG](src)
+![Image](IMG_1096.JPG)
 
 
 
