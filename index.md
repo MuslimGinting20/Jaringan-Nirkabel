@@ -11,6 +11,12 @@ Manfaat pertama yang bisa didapatkan dari menggunakan sistem keamanan pada jarin
 2. Bisa mendapatkan reliabilitas lebih tinggi
 Anda bisa dengan mudah menemukan reliabilitas tinggi cukup dengan melalui jaringan komputer dengan sumber alternatif persediaan. Sebagai contoh, untuk file secara keseluruhan bisa dicopy atau disimpan pada komputer kedua, komputer ketiga atau bahkan lebih. Namun dengan catatan, komputer harus terkoneksi pada jaringan. Dalam hal ini apabila 1 mesin telah mengalami kerusakan, maka untuk salinan pada mesin yang lain masih tetap dapat digunakan. Untuk komputer yang berukuran kecil memiliki rasio kinerja atau harga yang lebih baik jika dibandingkan pada komputer yang lebih besar. ketidakseimbangan antara rasio harga dan kinerja menjadikan perancang membangun sistem untuk komputer pribadi.
 
+### * Tujuan Keamanan Jaringan
+
+- Memberikan sumber informasi sesuai yang dibutuhkan oleh para penggunanya apabila komputer berada dalam kondisi yang tidak aman, maka untuk tingkat availability nya dapat      dipertanyakan sehingga komputer bisa di shutdown apabila bisa dieksploitasi oleh pihak attacker.
+- Mampu menjaga rahasia yang terdapat pada komputer sehingga seluruh informasi rahasia tersebut tidak bisa jatuh pada tangan attacker. Sementara untuk berbagai cara dapat dilakukan misalnya seperti penggunaan security mode, pembatasan akses dan cryptography.
+- Untuk memberikan informasi secara konsisten, sama dan juga utuh. Untuk data integrity dapat digunakan agar tidak terjadi penyisipan-penyisipan untuk informasi dari beberapa pihak attacker yang ada pada komputer.
+
 
 
 
