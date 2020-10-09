@@ -17,6 +17,21 @@ Anda bisa dengan mudah menemukan reliabilitas tinggi cukup dengan melalui jaring
 - Mampu menjaga rahasia yang terdapat pada komputer sehingga seluruh informasi rahasia tersebut tidak bisa jatuh pada tangan attacker. Sementara untuk berbagai cara dapat dilakukan misalnya seperti penggunaan security mode, pembatasan akses dan cryptography.
 - Untuk memberikan informasi secara konsisten, sama dan juga utuh. Untuk data integrity dapat digunakan agar tidak terjadi penyisipan-penyisipan untuk informasi dari beberapa pihak attacker yang ada pada komputer.
 
+- Kelebihan Jaringan Nirkabel
+
+* User(pengguna) mampu saling berbagi file, data, atau sumber daya lainnya yang terhubung dalam jaringan tanpa harus mencabut port dari satu komputer ke komputer lain.
+* Mobilitas tinggi. Dimana pengguna dapat bergerak bebas dengan mengunakan alat komunikasinya karena jaringan nirkabel ini memiliki cakupan area yang lebih luas dibandingkan dengan jaringan berkabel.
+* Mampu mencakup lebih banyak pengguna karena tidak dibatasi jumlah port untuk terhubung dengan jaringan.
+* Dapat menjangkau area area yang mungkin tidak dapat dijangkau dengan kabel.
+
+- Kekurangan Jaringan Nirkabel
+
+* Kecepatan transfer file atau data umumnya lebih lambat jika dibanding dengan jaringan berkabel.
+* Koneksi nirkabel mudah terhalang oleh berbagai penghalang seperti dinding, pohon, dan lain lain.
+* Faktor cuaca sangat mempengaruhi kekuatan sinyal jaringan nirkabel.
+* Jaringan nirkabel biasanya lebih rentan terhadap berbagai serangan dari luar seperti hack dan sebagainya sehingga jaringan nirkabel ini dianggap kurang aman jika dibanding jaringan berkabel.
+
+
 
 
 
